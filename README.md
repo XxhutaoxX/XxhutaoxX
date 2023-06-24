@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&weight=500&size=40&pause=600&color=F79280&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&height=62&lines=Hutao;%E8%83%A1%E6%A1%83)](https://github.com/XxhutaoxX)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=FFA5A5FF&vCenter=true&width=665&height=85&lines=Hutao;%E8%83%A1%E6%A1%83)](https://github.com/XxhutaoxX)
 📈一个学生党  
 ❤️喜欢二次元（）
 ## 今年汇总 ✨
